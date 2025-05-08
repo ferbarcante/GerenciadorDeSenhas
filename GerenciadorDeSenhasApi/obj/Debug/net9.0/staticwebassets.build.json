@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iyQhw5EipZpDmEpESrbW2oBK/kNcWym0XIKaQ5vpkXI=",
+  "Source": "GerenciadorDeSenhasApi",
+  "BasePath": "_content/GerenciadorDeSenhasApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
