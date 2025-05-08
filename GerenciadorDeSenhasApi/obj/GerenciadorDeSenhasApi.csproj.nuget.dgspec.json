@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fernanda/Documentos/Projetos/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj": {}
+    "/home/fernanda/Documentos/Projetos/GerenciadorDeSenha/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj": {}
   },
   "projects": {
-    "/home/fernanda/Documentos/Projetos/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj": {
+    "/home/fernanda/Documentos/Projetos/GerenciadorDeSenha/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fernanda/Documentos/Projetos/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj",
+        "projectUniqueName": "/home/fernanda/Documentos/Projetos/GerenciadorDeSenha/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj",
         "projectName": "GerenciadorDeSenhasApi",
-        "projectPath": "/home/fernanda/Documentos/Projetos/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj",
+        "projectPath": "/home/fernanda/Documentos/Projetos/GerenciadorDeSenha/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj",
         "packagesPath": "/home/fernanda/.nuget/packages/",
-        "outputPath": "/home/fernanda/Documentos/Projetos/GerenciadorDeSenhasApi/obj/",
+        "outputPath": "/home/fernanda/Documentos/Projetos/GerenciadorDeSenha/GerenciadorDeSenhasApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fernanda/.nuget/NuGet/NuGet.Config"
