@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "L5UEFGjhO4o=",
+  "dgSpecHash": "ThpiAPvlygE=",
   "success": true,
   "projectFilePath": "/home/fernanda/Documentos/Projetos/GerenciadorDeSenha/GerenciadorDeSenhasApi/GerenciadorDeSenhasApi.csproj",
   "expectedPackageFiles": [
     "/home/fernanda/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/home/fernanda/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/fernanda/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/fernanda/.nuget/packages/microsoft.identitymodel.abstractions/8.9.0/microsoft.identitymodel.abstractions.8.9.0.nupkg.sha512",
+    "/home/fernanda/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.9.0/microsoft.identitymodel.jsonwebtokens.8.9.0.nupkg.sha512",
+    "/home/fernanda/.nuget/packages/microsoft.identitymodel.logging/8.9.0/microsoft.identitymodel.logging.8.9.0.nupkg.sha512",
+    "/home/fernanda/.nuget/packages/microsoft.identitymodel.tokens/8.9.0/microsoft.identitymodel.tokens.8.9.0.nupkg.sha512",
     "/home/fernanda/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
-    "/home/fernanda/.nuget/packages/scalar.aspnetcore/2.2.7/scalar.aspnetcore.2.2.7.nupkg.sha512"
+    "/home/fernanda/.nuget/packages/scalar.aspnetcore/2.2.7/scalar.aspnetcore.2.2.7.nupkg.sha512",
+    "/home/fernanda/.nuget/packages/system.identitymodel.tokens.jwt/8.9.0/system.identitymodel.tokens.jwt.8.9.0.nupkg.sha512"
   ],
   "logs": []
 }

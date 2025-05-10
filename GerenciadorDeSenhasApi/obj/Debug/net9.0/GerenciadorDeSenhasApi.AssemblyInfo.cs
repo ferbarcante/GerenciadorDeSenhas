@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeSenhasApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2dd88748c3a07a0da9ff17c7cdd86e68d286226")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c9fd7258b919a77ae8357b82f05dc178c4e885")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeSenhasApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeSenhasApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
